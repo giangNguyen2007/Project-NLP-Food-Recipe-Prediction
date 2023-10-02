@@ -1,5 +1,5 @@
 # Project-NLP-Food-Recipe-Prediction
-Projet Fil Rouge de la formation DataScientest
+This project is part of the Data Scientist cursus at DataScientest. The project report and presentation can be found in the folder.
 
 Link to download the raw dataset loaded at the beginning of each notebook for model training:
 
